@@ -1,0 +1,20 @@
+{
+  "response": [
+    {
+      "datetime": 20210225,
+      "filename": "project-404-4.2-20210225-105403-RIPPA-cas.zip",
+      "id": "fed323770dceba2c189f1a84f098111a",
+      "romtype": "RIPPA",
+      "size": 314572800,
+      "url": "https://example.com/ota-package.zip",
+      "version": "4.3",
+      "links": {
+        "download": "",
+        "xda": "",
+        "supportGroup": "https://telegram.me/project_404",
+        "deviceGroup": "https://telegram.me/mi10aosp"
+      },
+      "changelog": ["abcd", "efgh", "ijkl"]
+    }
+  ]
+}
