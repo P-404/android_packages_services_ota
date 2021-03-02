@@ -28,6 +28,7 @@
 }
 ```
 ## Stuff to be noted
+- `deviceName` should be in lowercase when creating the json file.
 - Changelog list can be extended by adding more lines **(don't add comma after the last string in changelog)**.
 - If you don't have any changes just leave changelog empty.
 - For `datetime` and `id`, use the _timestamp_ and _MD5 Hash_ that is generated after a successful build.
