@@ -1,23 +1,22 @@
 {
   "response": [
     {
-      "datetime": 202103021935,
-      "filename": "project-404-4.2-20210302-130011-RIPPA-davinci.zip",
-      "id": "2eb62566f45fb58c3614f2c85aa8cb42",
+      "datetime": 202103072240,
+      "filename": "project-404-4.3-20210307-192945-RIPPA-davinci.zip",
+      "id": "bf04e5a990537a6896221e4425d409ee",
       "romtype": "RIPPA",
-      "size": 1583423029,
-      "url": "https://example.com",
-      "version": "4.2",
+      "size": 1424743117,
+      "url": "https://devices.project404.co/0:/davinci/project-404-4.3-20210307-192945-RIPPA-davinci.zip",
+      "version": "4.3",
       "links": {
-        "download": "",
         "xda": "",
         "supportGroup": "https://telegram.me/project_404",
         "deviceGroup": "https://telegram.me/p404davinci"
       },
       "changelog": [
-        "first change goes here",
-        "another change goes here",
-        "and another one here"
+        "Switched to new common trees by Arian and VantomKernel",
+        "Required firmware is 20.10.20 or higher",
+        "Latest source changes ofc"
       ]
     }
   ]
