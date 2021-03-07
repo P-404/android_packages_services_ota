@@ -13,7 +13,6 @@
       "url": "https://example.com",
       "version": "4.3",
       "links": {
-        "download": "",
         "xda": "",
         "supportGroup": "https://telegram.me/project_404",
         "deviceGroup": "https://telegram.me/abcd"
