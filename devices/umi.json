@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 202103081154,
-      "filename": "project-404-4.3-20210308-115456-RIPPA-umi.zip",
-      "id": "9b44121b4c6280f9b89153486556f7bb",
+      "datetime": 202103091811,
+      "filename": "project-404-4.3-20210309-181142-RIPPA-umi.zip",
+      "id": "eaa5d90a57ebaa5cf8c196a7488c52a6",
       "romtype": "RIPPA",
-      "size": 1120346849,
-      "url": "https://devices.project404.co/0:/umi/project-404-4.3-20210308-115456-RIPPA-umi.zip",
+      "size": 1118416784,
+      "url": "https://devices.project404.co/0:/umi/project-404-4.3-20210309-181142-RIPPA-umi.zip",
       "version": "4.3",
       "links": {
         "xda": "",
@@ -14,7 +14,7 @@
         "deviceGroup": "https://telegram.me/mi10aosp"
       },
       "changelog": [
-        "Switched to MIUI 21.3.3 base",
+        "Switched to MIUI 12.2.9 base",
         "General performance improvements",
         "Latest source changes ofc"
       ]
