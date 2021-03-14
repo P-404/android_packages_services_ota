@@ -14,11 +14,11 @@
           "deviceGroup": "https://telegram.me/p404_ginkgo"
         },
         "changelog": [
-          "fixed fm radio crashes",
+          "Fixed fm radio crashes",
           "Upgrade LA.UM.9.11 blobs to 02800",
           "Update some blobs from MIUI V12.0.1.0.RCOCNXM",
-          "fixed offline charging",
-          "fixed exFAT sdcard issues",
+          "Fixed offline charging",
+          "Fixed exFAT sdcard issues",
           "Added support for willow hwversion 18.31.0"
         ]
       }
