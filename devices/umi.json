@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 202103091811,
-      "filename": "project-404-4.3-20210309-181142-RIPPA-umi.zip",
-      "id": "eaa5d90a57ebaa5cf8c196a7488c52a6",
+      "datetime": 202103160015,
+      "filename": "project-404-4.3-20210316-001539-RIPPA-umi.zip",
+      "id": "bd07eec80adb46b325c8a7e3bbde68f4",
       "romtype": "RIPPA",
-      "size": 1118416784,
-      "url": "https://devices.project404.co/0:/umi/project-404-4.3-20210309-181142-RIPPA-umi.zip",
+      "size": 1126162840,
+      "url": "https://devices.project404.co/0:/umi/project-404-4.3-20210316-001539-RIPPA-umi.zip",
       "version": "4.3",
       "links": {
         "xda": "",
@@ -14,9 +14,11 @@
         "deviceGroup": "https://telegram.me/mi10aosp"
       },
       "changelog": [
-        "Switched to MIUI 12.2.9 base",
-        "General performance improvements",
-        "Latest source changes ofc"
+        "Improved audio. No more distortions",
+        "Fixed low volume when playing any media",
+        "Fixed jagged curout around the camera",
+        "Fixed some GCam crashing/not opening",
+        "General performance improvements"
       ]
     }
   ]
