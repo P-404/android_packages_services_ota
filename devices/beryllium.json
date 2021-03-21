@@ -1,0 +1,26 @@
+{
+  "response": [
+    {
+      "datetime": 202103211349,
+      "filename": "project-404-4.3-20210321-134929-RIPPA-beryllium.zip",
+      "id": "7f9ac1ea865d4ed4f83b56db92cc9efd",
+      "romtype": "RIPPA",
+      "size": 1343192381,
+      "url": "https://devices.project404.co/0:/beryllium/project-404-4.3-20210321-134929-RIPPA-beryllium.zip",
+      "version": "4.3",
+      "links": {
+        "xda": "",
+        "supportGroup": "https://telegram.me/project_404",
+        "deviceGroup": "https://telegram.me/p404_beryllium"
+      },
+      "changelog": [
+        "Fixed Extreme Battery Saver",
+        "Addressed few sepolicy denials",
+        "Updated Stealth Kernel",
+        "Improved performance",
+        "Sync with source",
+        "Miscellaneous improvements"
+      ]
+    }
+  ]
+}
