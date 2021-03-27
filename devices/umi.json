@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 202103160015,
-      "filename": "project-404-4.3-20210316-001539-RIPPA-umi.zip",
-      "id": "bd07eec80adb46b325c8a7e3bbde68f4",
+      "datetime": 202103272141,
+      "filename": "project-404-4.3-20210327-214157-RIPPA-umi.zip",
+      "id": "b74196d7765466df162d56795c31216b",
       "romtype": "RIPPA",
-      "size": 1126162840,
-      "url": "https://devices.project404.co/0:/umi/project-404-4.3-20210316-001539-RIPPA-umi.zip",
+      "size": 1682833372,
+      "url": "https://devices.project404.co/0:/umi/project-404-4.3-20210327-214157-RIPPA-umi.zip",
       "version": "4.3",
       "links": {
         "xda": "",
@@ -14,11 +14,11 @@
         "deviceGroup": "https://telegram.me/mi10aosp"
       },
       "changelog": [
-        "Improved audio. No more distortions",
-        "Fixed low volume when playing any media",
-        "Fixed jagged curout around the camera",
-        "Fixed some GCam crashing/not opening",
-        "General performance improvements"
+        "Initial build based on OSS vendor",
+        "Fixed jagged corners",
+        "Fixed all audio issues",
+        "Added MotoDolby for clean audio experience",
+        "General performance and memory improvements"
       ]
     }
   ]
