@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 202103272109,
-      "filename": "project-404-4.3-20210327-210915-RIPPA-cmi.zip",
-      "id": "4d2c6f72f4b60b9688fb6180842f8d33",
+      "datetime": 202104021325,
+      "filename": "project-404-4.3-20210402-132523-RIPPA-cmi.zip",
+      "id": "fa206d597f341e7d39877e0ce4fe67b6",
       "romtype": "RIPPA",
-      "size": 1667171447,
-      "url": "https://devices.project404.co/0:/cmi/project-404-4.3-20210327-210915-RIPPA-cmi.zip",
+      "size": 1677240984,
+      "url": "https://devices.project404.co/0:/cmi/project-404-4.3-20210402-132523-RIPPA-cmi.zip",
       "version": "4.3",
       "links": {
         "xda": "",
@@ -14,11 +14,15 @@
         "deviceGroup": "https://telegram.me/mi10aosp"
       },
       "changelog": [
-        "Initial build based on OSS vendor",
-        "Fixed jagged corners",
-        "Fixed all audio issues",
-        "Added MotoDolby for clean audio experience",
-        "General performance and memory improvements"
+        "Switch to OSS kernel",
+        "Kernel Upstreamed to LA.UM.9.12.r1-11000-SMxx50.0",
+        "Update WIFI drivers to LA.UM.9.12.r1-11000-SMxx50.0",
+        "Fixed incall speaker issue",
+        "Merged LA.UM.9.12.r1-11000-SMxx50.0 in tree",
+        "Fixed audio dying randomly",
+        "Updated system blobs to LA.UM.9.16.r2-00800-MANNAR.0",
+        "Implemented dynamic refreshrate. Display switches automatically between 60 and 90 Hz",
+        "Lots of performance and memory improvements"
       ]
     }
   ]
