@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 202104021428,
-      "filename": "project-404-4.3-20210402-142828-RIPPA-umi.zip",
+      "datetime": 202104051309,
+      "filename": "project-404-4.3-20210405-130941-RIPPA-umi.zip",
       "id": "36a3533e3f248a0ba23386702b528144",
       "romtype": "RIPPA",
-      "size": 1687742987,
-      "url": "https://devices.project404.co/0:/umi/project-404-4.3-20210402-142828-RIPPA-umi.zip",
+      "size": 1688562742,
+      "url": "https://devices.project404.co/0:/umi/project-404-4.3-20210405-130941-RIPPA-umi.zip",
       "version": "4.3",
       "links": {
         "xda": "",
@@ -14,16 +14,14 @@
         "deviceGroup": "https://telegram.me/mi10aosp"
       },
       "changelog": [
-        "Switch to OSS kernel",
-        "Kernel Upstreamed to LA.UM.9.12.r1-11000-SMxx50.0",
-        "Update WIFI drivers to LA.UM.9.12.r1-11000-SMxx50.0",
-        "Fixed incall speaker issue",
-        "Merged LA.UM.9.12.r1-11000-SMxx50.0 in tree",
-        "Fixed audio dying randomly",
-        "Removed MotoDolby",
-        "Updated system blobs to LA.UM.9.16.r2-00800-MANNAR.0",
-        "Implemented dynamic refreshrate. Display switches automatically between 60 and 90 Hz",
-        "Lots of performance and memory improvements"
+        "Updated blobs to MIUI 12.5.3",
+        "Fixed FOD",
+        "Added back AOD",
+        "Removed dynamic refreshrate",
+        "Improved automatic brightness",
+        "Added back color modes",
+        "Some kernel side improvements",
+        "General performance and memory improvements"
       ]
     }
   ]
