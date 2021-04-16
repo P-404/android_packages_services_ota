@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 202103072240,
-      "filename": "project-404-4.3-20210307-192945-RIPPA-davinci.zip",
-      "id": "bf04e5a990537a6896221e4425d409ee",
+      "datetime": 1618578960,
+      "filename": "project-404-4.3-20210416-131610-RIPPA-davinci.zip",
+      "id": "17e7c06d8438c32665ec6fd5cab31c8b",
       "romtype": "RIPPA",
-      "size": 1424743117,
-      "url": "https://devices.project404.co/0:/davinci/project-404-4.3-20210307-192945-RIPPA-davinci.zip",
+      "size": 1426878889,
+      "url": "https://devices.project404.co/0:/davinci/project-404-4.3-20210416-131610-RIPPA-davinci.zip",
       "version": "4.3",
       "links": {
         "xda": "",
@@ -14,9 +14,13 @@
         "deviceGroup": "https://telegram.me/p404davinci"
       },
       "changelog": [
-        "Switched to new common trees by Arian and VantomKernel",
-        "Required firmware is 20.10.20 or higher",
-        "Latest source changes ofc"
+       	"User build",
+	"Updated kernel",
+	"Moved Audio Amplifier to audio hal",
+	"Changed FOD icon color back to cyan",
+	"Used soundtrigger blobs from sunfish (fixed ok google)",
+	"Switched to source built vendor.qti.hardware.perf@2.2.so",
+	"Added GCam Go prebuilt and removed SnapdragonCamera and Music apps"
       ]
     }
   ]
