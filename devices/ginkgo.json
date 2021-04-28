@@ -1,12 +1,12 @@
 {
     "response": [
       {
-        "datetime": 202104131600,
-        "filename": "project-404-4.3-20210412-162320-RIPPA-ginkgo.zip",
-        "id": "1324eb9a55c2cf21b73aa04ea99cb1e9",
+        "datetime": 202104280500,
+        "filename": "project-404-4.3-20210428-044150-RIPPA-ginkgo.zip",
+        "id": "b5db55c61dad92896b9f2d59f5ffde11",
         "romtype": "RIPPA",
-        "size": 849377741,
-        "url": "https://devices.project404.co/0:/ginkgo/project-404-4.3-20210412-162320-RIPPA-ginkgo.zip",
+        "size": 1315187494,
+        "url": "https://devices.project404.co/0:/ginkgo/project-404-4.3-20210428-044150-RIPPA-ginkgo.zip",
         "version": "4.3",
         "links": {
           "xda": "https://forum.xda-developers.com/t/rom-caf-11-0-project-404-for-redmi-note-8-8t-official-unified.4247157/",
@@ -14,13 +14,15 @@
           "deviceGroup": "https://telegram.me/p404_ginkgo"
         },
         "changelog": [
-          "Added some pixel overlays",
-          "Removed miui camera",
-          "Removed Xiaomi Parts",
-          "Update blobs from MIUI 21.3.3",
-          "Turn on support of multiple vibration intensities",
-          "Removed Pixel Charging animation",
-          "Import coral fs tunings"        
+          "Update blobs from MIUI 21.3.17 China Beta package",
+          "GPS checkout with LA.UM.9.11.r1-03600-NICOBAR.0",
+          "Set up sched_up/downmigrate nodes",
+          "Add metadata partition",
+          "Tune thermals",
+          "Set default screen off timeout",
+          "Disable touch sound by default",
+          "Fixed assistant bottom round corners",
+          "Fixed google transcript,photos saying high temperature"
         ]
       }
     ]
