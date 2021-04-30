@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 202104051225,
-      "filename": "project-404-4.3-20210405-122550-RIPPA-cmi.zip",
-      "id": "4002b7fb073e4b248d193a060c5d141d",
+      "datetime": 202104291953,
+      "filename": "project-404-4.3-20210429-195355-RIPPA-cmi.zip",
+      "id": "e35107fa1294bb11669b573a626ff57f",
       "romtype": "RIPPA",
-      "size": 1676767822,
-      "url": "https://devices.project404.co/0:/cmi/project-404-4.3-20210402-132523-RIPPA-cmi.zip",
+      "size": 1676636603,
+      "url": "https://devices.project404.co/0:/cmi/project-404-4.3-20210429-195355-RIPPA-cmi.zip",
       "version": "4.3",
       "links": {
         "xda": "",
@@ -14,13 +14,18 @@
         "deviceGroup": "https://telegram.me/mi10aosp"
       },
       "changelog": [
-        "Updated blobs to MIUI 12.5.3",
-        "Fixed FOD",
-        "Added back AOD",
-        "Removed dynamic refreshrate",
-        "Improved automatic brightness",
-        "Added back color modes",
-        "Some kernel side improvements",
+        "Audio improvements from MI 10S",
+        "Cleaned up useless libraries and services",
+        "Fixed FOD in 3rd party apps. You can use FOD now to lock and unlock apps as well as for mobile payments",
+        "Switched to QCOM's NFC implementation",
+        "Added support for ANT+",
+        "Added various color modes for display",
+        "Fixed audio dying randomly",
+        "FOD improvements",
+        "Updated rounded corners",
+        "Fixed USB C headphones/accessory",
+        "OIS improvements",
+        "Many kernel side changes regarding standby, memory management and general usage",
         "General performance and memory improvements"
       ]
     }
