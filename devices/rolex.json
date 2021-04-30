@@ -1,12 +1,12 @@
 {
     "response": [
       {
-        "datetime": 202104231810,
-        "filename": "project-404-4.3-20210423-181029-RIPPA-rolex.zip",
-        "id": "79b93d9284be3179b64f80465113f16c",
+        "datetime": 202104291151,
+        "filename": "project-404-4.3-20210429-115153-RIPPA-rolex.zip",
+        "id": "7d5d9b80733c27415eb61a50923cb4d6",
         "romtype": "RIPPA",
-        "size": 1187785566,
-        "url": "https://devices.project404.co/0:/rolex/project-404-4.3-20210423-181029-RIPPA-rolex.zip",
+        "size": 728201571,
+        "url": "https://devices.project404.co/0:/rolex/project-404-4.3-20210429-115153-RIPPA-rolex.zip",
         "version": "4.3",
         "links": {
           "xda": "",
@@ -14,7 +14,10 @@
           "deviceGroup": "https://t.me/adis_repo"
         },
         "changelog": [
-          "Initial OFFICIAL build"
+          "Switched to non-gapps build",
+	  "Reduced QS panel lag",
+	  "Enabled lmk",
+	  "Boosted overall performance"
         ]
       }
     ]
