@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 202104292032,
-      "filename": "project-404-4.3-20210429-203209-RIPPA-umi.zip",
-      "id": "aa9bfcbe76de820a2d97b41bba60610e",
+      "datetime": 202105050917,
+      "filename": "project-404-4.3-20210505-091721-RIPPA-umi.zip",
+      "id": "3e88fba69874523a17649f63400fb0b2",
       "romtype": "RIPPA",
-      "size": 1687300646,
-      "url": "https://devices.project404.co/0:/umi/project-404-4.3-20210429-203209-RIPPA-umi.zip",
+      "size": 1692422015,
+      "url": "https://devices.project404.co/0:/umi/project-404-4.3-20210505-091721-RIPPA-umi.zip",
       "version": "4.3",
       "links": {
         "xda": "",
@@ -14,19 +14,12 @@
         "deviceGroup": "https://telegram.me/mi10aosp"
       },
       "changelog": [
-        "Audio improvements from MI 10S",
-        "Cleaned up useless libraries and services",
-        "Fixed FOD in 3rd party apps. You can use FOD now to lock and unlock apps as well as for mobile payments",
-        "Switched to QCOM's NFC implementation",
-        "Added support for ANT+",
-        "Added various color modes for display",
-        "Fixed audio dying randomly",
-        "FOD improvements",
-        "Updated rounded corners",
-        "Fixed USB C headphones/accessory",
-        "OIS improvements",
-        "Many kernel side changes regarding standby, memory management and general usage",
-        "General performance and memory improvements"
+        "Updated tree to LA.UM.9.12.r1-11300-SMxx50.0",
+        "Merged LA.UM.9.12.r1-11300-SMxx50.0 in kernel",
+        "Updated Wifi, Audio, Display and Video drivers to LA.UM.9.12.r1-11300-SMxx50.0",
+        "Fixed deepsleep issue",
+        "Fixed lags happening in some apps",
+        "General ROM side performance and memory improvements"
       ]
     }
   ]
