@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 202104291151,
-      "filename": "project-404-4.3-20210429-115153-RIPPA-rolex.zip",
-      "id": "7d5d9b80733c27415eb61a50923cb4d6",
+      "datetime": 202105300004,
+      "filename": "project-404-4.3-20210530-000442-RIPPA-rolex.zip",
+      "id": "70e3b59dfc1fc13a9062b3df6c45fee0",
       "romtype": "RIPPA",
-      "size": 728201571,
-      "url": "https://devices.project404.co/0:/rolex/project-404-4.3-20210429-115153-RIPPA-rolex.zip",
+      "size": 714790225,
+      "url": "https://devices.project404.co/0:/rolex/project-404-4.3-20210530-000442-RIPPA-rolex.zip",
       "version": "4.3",
       "links": {
         "xda": "",
@@ -14,10 +14,9 @@
         "deviceGroup": "https://t.me/adis_repo"
       },
       "changelog": [
-        "Switched to non-gapps build",
-        "Reduced QS panel lag",
-        "Enabled lmk",
-        "Boosted overall performance"
+        "Switched to msm8937 kernel",
+        "Fixed heating issue",
+        "Fixes here and there"
       ]
     }
   ]
