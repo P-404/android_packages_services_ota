@@ -19,7 +19,7 @@
         "Switched to QTI Components for av, bt, display, perf, telephony, usb and vibrator",
         "Switched to QTI Health HAL",
         "Fixed Ok Google when screen is off",
-        "Fixed cropped music text on ambient screen"
+        "Fixed cropped music text on ambient screen",
         "Configure SQLite to operate in MEMORY mode",
         "Disabled mobile plan option",
         "Remove fingerprint HAL from background cpuset",
