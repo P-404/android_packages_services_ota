@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 202103211803,
-      "filename": "project-404-4.3-20210321-180348-RIPPA-beryllium.zip",
-      "id": "dd0d1607f9404f57379c4740e2c4b863",
+      "datetime": 202106031406,
+      "filename": "project-404-4.3-20210603-140644-RIPPA-beryllium.zip",
+      "id": "f65b3cf11e9ce26a87ceb4dad4e0bc6d",
       "romtype": "RIPPA",
-      "size": 1343241425,
-      "url": "https://devices.project404.co/0:/beryllium/project-404-4.3-20210321-180348-RIPPA-beryllium.zip",
+      "size": 1403017104,
+      "url": "https://devices.project404.co/0:/beryllium/project-404-4.3-20210603-140644-RIPPA-beryllium.zip",
       "version": "4.3",
       "links": {
         "xda": "",
@@ -14,7 +14,18 @@
         "deviceGroup": "https://telegram.me/p404_beryllium"
       },
       "changelog": [
-        "Fixed CTS (Hotfix update)"
+        "Rebased trees completely, clean flash is mandatory",
+        "Update some blobs from Phoenix",
+        "Switched to QTI Components for av, bt, display, perf, telephony, usb and vibrator",
+        "Switched to QTI Health HAL",
+        "Fixed Ok Google when screen is off",
+        "Fixed cropped music text on ambient screen",
+        "Configure SQLite to operate in MEMORY mode",
+        "Disabled mobile plan option",
+        "Remove fingerprint HAL from background cpuset",
+        "Enable usage of dex2oat64",
+        "Sync with latest device & ROM source",
+        "Many more underhood improvements"
       ]
     }
   ]
