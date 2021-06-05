@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 202106041317,
-      "filename": "project-404-4.3-20210604-131720-RIPPA-miatoll.zip",
-      "id": "f1724e58182f9e114e21b60164e6aa4b",
+      "datetime": 202106050349,
+      "filename": "project-404-4.3-20210605-034945-RIPPA-miatoll.zip",
+      "id": "2e4c3a75b876ca9a52dabac5769e8688",
       "romtype": "RIPPA",
-      "size": 1585866918,
-      "url": "https://devices.project404.co/0:/miatoll/project-404-4.3-20210604-131720-RIPPA-miatoll.zip",
+      "size": 1586036578,
+      "url": "https://devices.project404.co/0:/miatoll/project-404-4.3-20210605-034945-RIPPA-miatoll.zip",
       "version": "4.3",
       "links": {
         "xda": "",
@@ -22,7 +22,8 @@
         "UI Gliches in Settings App fixed",
         "Fixed Status Bar Padding",
         "Fixed Aux Camera Lens",
-        "May Security Patch"
+        "May Security Patch",
+        "Fixed Dual Sim Telephony Issues"
       ]
     }
   ]
