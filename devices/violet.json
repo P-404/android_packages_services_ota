@@ -1,20 +1,25 @@
 {
   "response": [
     {
-      "datetime": 202106040438,
-      "filename": "project-404-4.3-20210604-043805-RIPPA-violet.zip",
-      "id": "018798214e037f12ecc34157b7201f46",
+      "datetime": 202106161755,
+      "filename": "project-404-4.4-20210616-175547-RIPPA-violet.zip",
+      "id": "448cb6a640b699036aa7ecd62c20ceb7",
       "romtype": "RIPPA",
-      "size": 1437931501,
-      "url": "https://devices.project404.co/0:/violet/project-404-4.3-20210604-043805-RIPPA-violet.zip",
-      "version": "4.3",
+      "size": 1431965670,
+      "url": "https://devices.project404.co/0:/violet/project-404-4.4-20210616-175547-RIPPA-violet.zip",
+      "version": "4.4",
       "links": {
         "xda": "",
         "supportGroup": "https://telegram.me/project_404",
         "deviceGroup": "https://t.me/Pr404Violet"
       },
       "changelog": [
-        "Initial Official Build"
+        "404 Updated to RIPPA 4.4",
+        "Added Dolby Audio",
+        "Fixed Some Crashes on some apps",
+        "Upstreamed Kernel and added exFAT support",
+        "Removed some duplicate Apps",
+        "More miscellaneous fixes and performance improvement"
       ]
     }
   ]
