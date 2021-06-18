@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 202106171755,
-      "filename": "project-404-4.4-20210617-175538-RIPPA-miatoll.zip",
-      "id": "af9b04d1aa0cea522d0cde0f1084206b",
+      "datetime": 202106180812,
+      "filename": "project-404-4.4-20210618-081256-RIPPA-miatoll.zip",
+      "id": "3597d5a9bc888328527cbee1a99a5132",
       "romtype": "RIPPA",
-      "size":  1589303047,
-      "url": "https://github.com/P404-Devices/device_xiaomi_miatoll/releases/download/v4.4/project-404-4.4-20210617-175538-RIPPA-miatoll.zip",
+      "size":  1587953359,
+      "url": "https://github.com/P404-Devices/device_xiaomi_miatoll/releases/download/v4.4/project-404-4.4-20210618-081256-RIPPA-miatoll.zip",
       "version": "4.4",
       "links": {
         "xda": "",
