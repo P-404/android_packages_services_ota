@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 202106161325,
-      "filename": "project-404-4.4-20210616-132513-RIPPA-miatoll.zip",
-      "id": "ef0fe5cca096eeb67cddc908f502b6cf",
+      "datetime": 202106171755,
+      "filename": "project-404-4.4-20210617-175538-RIPPA-miatoll.zip",
+      "id": "af9b04d1aa0cea522d0cde0f1084206b",
       "romtype": "RIPPA",
-      "size": 1586655817,
-      "url": "https://github.com/P404-Devices/device_xiaomi_miatoll/releases/download/v4.4/project-404-4.4-20210616-132513-RIPPA-miatoll.zip",
+      "size":  1589303047,
+      "url": "https://github.com/P404-Devices/device_xiaomi_miatoll/releases/download/v4.4/project-404-4.4-20210617-175538-RIPPA-miatoll.zip",
       "version": "4.4",
       "links": {
         "xda": "",
@@ -14,19 +14,13 @@
         "deviceGroup": "https://telegram.me/Botsgarage"
       },
       "changelog": [
-        "Fixed Heating While Charging for gram",
-        "Fixed audio lag while Playing video",
-        "Added missing option for colour modes",
-        "Added Offline Charging Animation",
-        "KCal is Working Now",
-        "Enabled IORap app launch prefetching",
-        "Disabled Vsync For better framrates",
-        "Fixed lags while Blur in UI",
-        "Dropped ZRam and Switched to vbswap",
-        "Fingerprint sensor glitches are fixed",
-        "Improved Boot time",
-        "Load blobs for Joyeuse too",
-        "Using Modified Thermal Engine from Adreno Team"
+        "Upstreamed kernel to 4.14.237",
+        "Switched Back To ZRam (Fixes ram issues)",
+        "Using Thermal-engine From stock",
+        "Fixed Overlay bugs",
+        "Deep sleep issues Fixed",
+        "App crashes are fixed ;)",
+        "Boosted performance by skipping EAS"
       ]
     }
   ]
