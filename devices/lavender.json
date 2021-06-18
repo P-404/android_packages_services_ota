@@ -1,12 +1,12 @@
  {
   "response": [
     {
-      "datetime": 202106181322,
-      "filename": "project-404-4.4-20210618-132234-RIPPA-lavender.zip",
-      "id": "0282f19170ca78a768470ebf34cdf31e",
+      "datetime": 202106181939,
+      "filename": "project-404-4.4-20210618-193919-RIPPA-lavender.zip",
+      "id": "ef01be3c495fdd9022309b714db02a1c",
       "romtype": "RIPPA",
-      "size": 1313261841,
-      "url": "https://github.com/P404-Devices/device_xiaomi_lavender/releases/download/v4.4/project-404-4.4-20210618-132234-RIPPA-lavender.zip",
+      "size": 1316924264,
+      "url": "https://github.com/P404-Devices/device_xiaomi_lavender/releases/download/v4.4/project-404-4.4-20210618-193919-RIPPA-lavender.zip",
       "version": "4.4",
       "links": {
         "xda": "https://forum.xda-developers.com/t/rom-caf-11-0-project-404-for-redmi-note-7-official.4283299/",
