@@ -1,0 +1,23 @@
+{
+  "response": [
+    {
+      "datetime": 202106211501,
+      "filename": "project-404-4.4-20210621-150140-RIPPA-platina.zip",
+      "id": "021f6691be8df475f21d517534452808",
+      "romtype": "RIPPA",
+      "size": 1275933962,
+      "url": "https://github.com/P404-Devices/android_device_xiaomi_platina/releases/download/v4.4/project-404-4.4-20210621-150140-RIPPA-platina.zip",
+      "version": "4.4",
+      "links": {
+        "xda": "",
+        "supportGroup": "https://telegram.me/project_404",
+        "deviceGroup": "https://t.me/p404_platina"
+      },
+      "changelog": [
+        "Initial Official build",
+        "Include Gapps",
+        "Use Aurora kernel 4.4.273",
+      ]
+    }
+  ]
+}
