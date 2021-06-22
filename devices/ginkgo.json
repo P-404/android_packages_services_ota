@@ -1,28 +1,29 @@
 {
     "response": [
       {
-        "datetime": 202104280500,
-        "filename": "project-404-4.3-20210428-044150-RIPPA-ginkgo.zip",
-        "id": "b5db55c61dad92896b9f2d59f5ffde11",
+        "datetime": 202106210918,
+        "filename": "project-404-4.4-20210621-205741-RIPPA-ginkgo.zip",
+        "id": "30dc28a508dca2313ea04e42c9151ae0",
         "romtype": "RIPPA",
-        "size": 1315187494,
-        "url": "https://devices.project404.co/0:/ginkgo/project-404-4.3-20210428-044150-RIPPA-ginkgo.zip",
-        "version": "4.3",
+        "size": 1366489014,
+        "url": "https://github.com/P404-Devices/device_xiaomi_ginkgo/releases/download/v4.4/project-404-4.4-20210621-205741-RIPPA-ginkgo.zip",
+        "version": "4.4",
         "links": {
           "xda": "https://forum.xda-developers.com/t/rom-caf-11-0-project-404-for-redmi-note-8-8t-official-unified.4247157/",
           "supportGroup": "https://telegram.me/project_404",
-          "deviceGroup": "https://telegram.me/p404_ginkgo"
+          "deviceGroup": "https://t.me/project_404"
         },
         "changelog": [
-          "Update blobs from MIUI 21.3.17 China Beta package",
-          "GPS checkout with LA.UM.9.11.r1-03600-NICOBAR.0",
-          "Set up sched_up/downmigrate nodes",
-          "Add metadata partition",
-          "Tune thermals",
-          "Set default screen off timeout",
-          "Disable touch sound by default",
-          "Fixed assistant bottom round corners",
-          "Fixed google transcript,photos saying high temperature"
+          "Updated stock blobs from MIUI 21.6.7",
+          "Updated some blobs to LA.UM.9.11.r1-03200-NICOBAR.0",
+          "Switch to LA.QSSI.11.0.r1-09900-qssi.0 QTI component for adreno,display,perf,wfd,av,telephony,bt",
+          "Improved 5ghz wifi",
+          "Set voice call volume steps to 7",
+          "Increase media volume steps to 25",
+          "Fix kcal toogle after first boo",
+          "Enable adaptive sleep",
+          "Configure SQLite to operate in MEMORY mode",
+          "Misc optimizations and fixes"
         ]
       }
     ]
