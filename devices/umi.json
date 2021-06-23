@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 202106152346,
-      "filename": "project-404-4.4-20210615-234629-RIPPA-umi.zip",
-      "id": "dc265ef7cc4bedeaa31735e6d3372bc3",
+      "datetime": 202106231132,
+      "filename": "project-404-4.4-20210623-113204-RIPPA-umi.zip",
+      "id": "5487af794fb5bf2cca562ab1bf6fbeac",
       "romtype": "RIPPA",
-      "size": 1687796738,
-      "url": "https://devices.project404.co/0:/umi/project-404-4.4-20210615-234629-RIPPA-umi.zip",
+      "size": 1689429717,
+      "url": "https://github.com/P404-Devices/device_xiaomi_umi/releases/download/v4.4/project-404-4.4-20210623-113204-RIPPA-umi.zip",
       "version": "4.4",
       "links": {
         "xda": "",
@@ -14,20 +14,13 @@
         "deviceGroup": "https://telegram.me/mi10aosp"
       },
       "changelog": [
-        "Updated tree to LA.UM.9.12.r1-11500-SMxx50.0",
-        "Merged LA.UM.9.12.r1-11500-SMxx50.0 in kernel",
-        "Updated hole punch cutout for perfect fit",
-        "Updated WIFI configs from CAF",
-        "Updated Wifi, Audio, Display and Video drivers to LA.UM.9.12.r1-11500-SMxx50.0",
-        "Huge improvements to audio. Speakers distorts a lot less now at high volumes.",
-        "Switched to CAF's media configs",
-        "Updated blobs to 12.5.5",
-        "Added TCL panel config",
-        "Switched to source built dtb",
-        "Built using latest Proton Clang",
-        "Fixed mi_thermald crashing",
-        "Lots of improvements here and there",
-        "General ROM side performance and memory improvements"
+        "Fixed thermal issues",
+         "Updated graphics-stack to LA.UM.9.12.r1-11500-SMxx50.0",
+         "Updated perf-stack to LA.UM.9.12.r1-11500-SMxx50.0",
+         "Added AliPay and WeChat payment support",
+         "Fixed apps crashing",
+         "Built using latest Proton Clang",
+         "General ROM side performance and memory improvements"
       ]
     }
   ]
