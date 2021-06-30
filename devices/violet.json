@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 202106161755,
-      "filename": "project-404-4.4-20210616-175547-RIPPA-violet.zip",
-      "id": "448cb6a640b699036aa7ecd62c20ceb7",
+      "datetime": 202106301428,
+      "filename": "project-404-4.4-20210630-142812-RIPPA-violet.zip",
+      "id": "6e6802308c9ce2e04d40fc6cef85bb32",
       "romtype": "RIPPA",
-      "size": 1431965670,
-      "url": "https://devices.project404.co/0:/violet/project-404-4.4-20210616-175547-RIPPA-violet.zip",
+      "size": 1432707072,
+      "url": "https://github.com/P404-Devices/device_xiaomi_violet/releases/download/v4.4/project-404-4.4-20210630-142812-RIPPA-violet.zip",
       "version": "4.4",
       "links": {
         "xda": "",
@@ -14,11 +14,10 @@
         "deviceGroup": "https://t.me/Pr404Violet"
       },
       "changelog": [
-        "404 Updated to RIPPA 4.4",
-        "Added Dolby Audio",
-        "Fixed Some Crashes on some apps",
-        "Upstreamed Kernel and added exFAT support",
-        "Removed some duplicate Apps",
+        "Updated to latest 404 source",
+        "Fixed Crashes on some apps",
+        "June '21 Security Patch merged",
+        "Upstreamed Kernel",
         "More miscellaneous fixes and performance improvement"
       ]
     }
