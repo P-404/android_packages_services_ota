@@ -1,12 +1,12 @@
  {
   "response": [
     {
-      "datetime": 202106181939,
-      "filename": "project-404-4.4-20210618-193919-RIPPA-lavender.zip",
-      "id": "ef01be3c495fdd9022309b714db02a1c",
+      "datetime": 202107022049,
+      "filename": "project-404-4.4-20210702-204911-RIPPA-lavender.zip",
+      "id": "157fe9c06df21b4c8aeb69dab35071d7",
       "romtype": "RIPPA",
-      "size": 1316924264,
-      "url": "https://github.com/P404-Devices/device_xiaomi_lavender/releases/download/v4.4/project-404-4.4-20210618-193919-RIPPA-lavender.zip",
+      "size": 1317797329,
+      "url": "https://github.com/P404-Devices/device_xiaomi_lavender/releases/download/v4.4/project-404-4.4-20210702-204911-RIPPA-lavender.zip",
       "version": "4.4",
       "links": {
         "xda": "https://forum.xda-developers.com/t/rom-caf-11-0-project-404-for-redmi-note-7-official.4283299/",
@@ -14,7 +14,13 @@
         "deviceGroup": "https://telegram.me/Raiyanbuilds"
       },
       "changelog": [
-        "Initial build based on LineageOS trees"
+        "Updated qti-telephony-common from LA.UM.9.6.2.r1-04100-89xx.0",
+        "Updated portion IMS blobs from LA.UM.9.6.2.r1-02500-89xx.0",
+        "Updated some IMS libs to LA.UM.9.6.2.r1-04100-89xx.0",
+        "Updated lib-imsvtcore from mojito",
+        "Updated org.codeaurora.ims permissions",
+        "Switched to CAF Telephony",
+        "Updated graphics blobs from taimen RP1A.201005.004"
       ]
     }
   ]
