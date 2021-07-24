@@ -1,10 +1,10 @@
- {
+{
   "response": [
     {
       "datetime": 202107022049,
       "filename": "project-404-4.4-20210702-204911-RIPPA-lavender.zip",
       "id": "157fe9c06df21b4c8aeb69dab35071d7",
-      "romtype": "RIPPA",
+      "romtype": "user",
       "size": 1317797329,
       "url": "https://github.com/P404-Devices/device_xiaomi_lavender/releases/download/v4.4.1/project-404-4.4-20210702-204911-RIPPA-lavender.zip",
       "version": "4.4",
@@ -13,7 +13,7 @@
         "supportGroup": "https://telegram.me/project_404",
         "deviceGroup": "https://telegram.me/Raiyanbuilds"
       },
-      "changelog": [
+      "changes": [
         "Updated qti-telephony-common from LA.UM.9.6.2.r1-04100-89xx.0",
         "Updated portion IMS blobs from LA.UM.9.6.2.r1-02500-89xx.0",
         "Updated some IMS libs to LA.UM.9.6.2.r1-04100-89xx.0",

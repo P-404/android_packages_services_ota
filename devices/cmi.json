@@ -4,7 +4,7 @@
       "datetime": 202106231005,
       "filename": "project-404-4.4-20210623-100514-RIPPA-cmi.zip",
       "id": "2925029f82aef5da92c65797fe0c0eb6",
-      "romtype": "RIPPA",
+      "romtype": "user",
       "size": 1675737699,
       "url": "https://github.com/P404-Devices/device_xiaomi_cmi/releases/download/v4.4/project-404-4.4-20210623-100514-RIPPA-cmi.zip",
       "version": "4.4",
@@ -13,7 +13,7 @@
         "supportGroup": "https://telegram.me/project_404",
         "deviceGroup": "https://telegram.me/mi10aosp"
       },
-      "changelog": [
+      "changes": [
         "Fixed thermal issues",
         "Updated graphics-stack to LA.UM.9.12.r1-11500-SMxx50.0",
         "Updated perf-stack to LA.UM.9.12.r1-11500-SMxx50.0",

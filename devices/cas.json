@@ -4,7 +4,7 @@
       "datetime": 202103081518,
       "filename": "project-404-4.3-20210308-151756-RIPPA-cas.zip",
       "id": "2477ee981917cd36e919d199c74757da",
-      "romtype": "RIPPA",
+      "romtype": "user",
       "size": 1120112173,
       "url": "https://devices.project404.us/0:/cas/project-404-4.3-20210308-151756-RIPPA-cas.zip",
       "version": "4.3",
@@ -14,7 +14,7 @@
         "supportGroup": "https://telegram.me/project_404",
         "deviceGroup": "https://telegram.me/mi10aosp"
       },
-      "changelog": [
+      "changes": [
         "Switched to MIUI 21.3.3 base",
         "General performance improvements",
         "Latest source changes ofc"
