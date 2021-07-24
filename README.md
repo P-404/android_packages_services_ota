@@ -8,7 +8,7 @@
       "datetime": 202102250030,
       "filename": "project-404-4.2-20210225-105403-RIPPA-cas.zip",
       "id": "fed323770dceba2c189f1a84f098111a",
-      "romtype": "RIPPA",
+      "romtype": "user",
       "size": 314572800,
       "url": "https://example.com",
       "version": "4.3",
@@ -17,7 +17,7 @@
         "supportGroup": "https://telegram.me/project_404",
         "deviceGroup": "https://telegram.me/abcd"
       },
-      "changelog": [
+      "changes": [
         "first change goes here",
         "another change goes here",
         "and another one here"
