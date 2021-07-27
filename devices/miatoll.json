@@ -1,27 +1,13 @@
 {
   "response": [
     {
-      "datetime": 202106180812,
-      "filename": "project-404-4.4-20210618-081256-RIPPA-miatoll.zip",
-      "id": "3597d5a9bc888328527cbee1a99a5132",
-      "romtype": "RIPPA",
-      "size":  1587953359,
-      "url": "https://github.com/P404-Devices/device_xiaomi_miatoll/releases/download/v4.4/project-404-4.4-20210618-081256-RIPPA-miatoll.zip",
-      "version": "4.4",
-      "links": {
-        "xda": "",
-        "supportGroup": "https://telegram.me/project_404",
-        "deviceGroup": "https://telegram.me/Botsgarage"
-      },
-      "changelog": [
-        "Upstreamed kernel to 4.14.237",
-        "Switched Back To ZRam (Fixes ram issues)",
-        "Using Thermal-engine From stock",
-        "Fixed Overlay bugs",
-        "Deep sleep issues Fixed",
-        "App crashes are fixed ;)",
-        "Boosted performance by skipping EAS"
-      ]
+      "datetime": 1627365323,
+      "filename": "project-404-4.4-20210727-033554-RIPPA-miatoll.zip",
+      "id": "1e4542b5559628d973739d8e06244f51",
+      "romtype": "userdebug",
+      "size": 1595350060,
+      "url": "https://a.notabot.workers.dev/0:/404-fuckery/Ota/project-404-4.4-20210727-033554-RIPPA-miatoll.zip",
+      "version": "11"
     }
   ]
 }
