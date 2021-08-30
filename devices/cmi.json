@@ -1,28 +1,13 @@
 {
   "response": [
     {
-      "datetime": 202106231005,
-      "filename": "project-404-4.4-20210623-100514-RIPPA-cmi.zip",
-      "id": "2925029f82aef5da92c65797fe0c0eb6",
-      "romtype": "RIPPA",
-      "size": 1675737699,
-      "url": "https://github.com/P404-Devices/device_xiaomi_cmi/releases/download/v4.4/project-404-4.4-20210623-100514-RIPPA-cmi.zip",
-      "version": "4.4",
-      "links": {
-        "xda": "",
-        "supportGroup": "https://telegram.me/project_404",
-        "deviceGroup": "https://telegram.me/mi10aosp"
-      },
-      "changelog": [
-        "Fixed thermal issues",
-        "Updated graphics-stack to LA.UM.9.12.r1-11500-SMxx50.0",
-        "Updated perf-stack to LA.UM.9.12.r1-11500-SMxx50.0",
-        "Added AliPay and WeChat payment support",
-        "Updated blobs to 12.5.5",
-        "Fixed apps crashing",
-        "Built using latest Proton Clang",
-        "General ROM side performance and memory improvements"
-      ]
+      "datetime": 1630272031,
+      "filename": "project-404-4.5-20210829-212038-RIPPA-cmi.zip",
+      "id": "71a1aec397feffa36bb6798b2d545739",
+      "romtype": "user",
+      "size": 1701664547,
+      "url": "https://huhmirror.ml/1:/project-404-4.5-20210829-212038-RIPPA-cmi.zip",
+      "version": "11"
     }
   ]
 }
