@@ -1,26 +1,28 @@
 {
   "response": [
     {
-      "datetime": 202106180812,
-      "filename": "project-404-4.4-20210618-081256-RIPPA-miatoll.zip",
-      "id": "3597d5a9bc888328527cbee1a99a5132",
+      "datetime": 202109020748,
+      "filename": "project-404-4.5-20210902-074835-RIPPA-miatoll.zip",
+      "id": "3a6edb2876dad762530d764320ebced3",
       "romtype": "user",
-      "size": 1587953359,
-      "url": "https://github.com/P404-Devices/device_xiaomi_miatoll/releases/download/v4.4/project-404-4.4-20210618-081256-RIPPA-miatoll.zip",
-      "version": "4.4",
+      "size": 1590791397,
+      "url": "https://github.com/P404-Devices/device_xiaomi_miatoll/releases/download/v4.5/project-404-4.5-20210902-074835-RIPPA-miatoll.zip",
+      "version": "4.5",
       "links": {
         "xda": "",
         "supportGroup": "https://telegram.me/project_404",
         "deviceGroup": "https://telegram.me/Botsgarage"
       },
       "changes": [
-        "Upstreamed kernel to 4.14.237",
-        "Switched Back To ZRam (Fixes ram issues)",
-        "Using Thermal-engine From stock",
-        "Fixed Overlay bugs",
-        "Deep sleep issues Fixed",
-        "App crashes are fixed ;)",
-        "Boosted performance by skipping EAS"
+        "Reverted Back to stock Graphics Drivers",
+        "Fixed Artifacting in Unity based games",
+        "Fixed Issues in EIS on 4K/60FPS",
+        "Improved Fingerprint unlock speed",
+        "Fixed wakeup Denials",
+        "Defined Fast Charge node",
+        "Updated Fingerprint to Redfin August",
+        "Dropped Gcam Go by Default",
+        "Increased Earphones volume to match stock"
       ]
     }
   ]
