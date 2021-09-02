@@ -1,26 +1,25 @@
 {
   "response": [
     {
-      "datetime": 202107022049,
-      "filename": "project-404-4.4-20210702-204911-RIPPA-lavender.zip",
-      "id": "157fe9c06df21b4c8aeb69dab35071d7",
+      "datetime": 202109020710,
+      "filename": "project-404-4.5-20210902-071011-RIPPA-lavender.zip",
+      "id": "587b0c33525528dbac6acae82ee3ad9a",
       "romtype": "user",
-      "size": 1317797329,
-      "url": "https://github.com/P404-Devices/device_xiaomi_lavender/releases/download/v4.4.1/project-404-4.4-20210702-204911-RIPPA-lavender.zip",
-      "version": "4.4",
+      "size": 1341646469,
+      "url": "https://github.com/P404-Devices/device_xiaomi_lavender/releases/download/v4.5/project-404-4.5-20210902-071011-RIPPA-lavender.zip",
+      "version": "4.5",
       "links": {
         "xda": "https://forum.xda-developers.com/t/rom-caf-11-0-project-404-for-redmi-note-7-official.4283299/",
         "supportGroup": "https://telegram.me/project_404",
         "deviceGroup": "https://telegram.me/Raiyanbuilds"
       },
       "changes": [
-        "Updated qti-telephony-common from LA.UM.9.6.2.r1-04100-89xx.0",
-        "Updated portion IMS blobs from LA.UM.9.6.2.r1-02500-89xx.0",
-        "Updated some IMS libs to LA.UM.9.6.2.r1-04100-89xx.0",
-        "Updated lib-imsvtcore from mojito",
-        "Updated org.codeaurora.ims permissions",
-        "Switched to CAF Telephony",
-        "Updated graphics blobs from taimen RP1A.201005.004"
+        "lavender: Update fingerprint to Redfin - RQ3A.210805.001.A1",
+        "lavender: vibrator: Enable LED based vibrator",
+        "lavender: Update blobs from V12.5.3.0.QFGCNXM",
+        "sdm660-common: sepolicy: Address tethering_service denial",
+        "sdm660-common: Update blobs from jasmine V11.0.27.0.QDIMIXM",
+        "sdm660-common: Update blobs from jasmine V11.0.28.0.QDIMIXM"
       ]
     }
   ]
