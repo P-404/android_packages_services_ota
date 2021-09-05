@@ -3,4 +3,5 @@
 
 
 
-- Testing will skip 5 lines soon 
+- Updated kernel to .206
+- Fixed SafetyNet failing
