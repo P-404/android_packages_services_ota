@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 202109020710,
-      "filename": "project-404-4.5-20210902-071011-RIPPA-lavender.zip",
-      "id": "587b0c33525528dbac6acae82ee3ad9a",
+      "datetime": 202109050701,
+      "filename": "project-404-4.5-20210905-070139-RIPPA-lavender.zip",
+      "id": "67f8bc0333432ad5f9698d244ca3de5f",
       "romtype": "user",
-      "size": 1341646469,
-      "url": "https://github.com/P404-Devices/device_xiaomi_lavender/releases/download/v4.5/project-404-4.5-20210902-071011-RIPPA-lavender.zip",
+      "size": 1341218370,
+      "url": "https://github.com/P404-Devices/device_xiaomi_lavender/releases/download/v4.5.1/project-404-4.5-20210905-070139-RIPPA-lavender.zip",
       "version": "4.5",
       "links": {
         "xda": "https://forum.xda-developers.com/t/rom-caf-11-0-project-404-for-redmi-note-7-official.4283299/",
@@ -14,12 +14,10 @@
         "deviceGroup": "https://telegram.me/Raiyanbuilds"
       },
       "changes": [
-        "lavender: Update fingerprint to Redfin - RQ3A.210805.001.A1",
-        "lavender: vibrator: Enable LED based vibrator",
-        "lavender: Update blobs from V12.5.3.0.QFGCNXM",
-        "sdm660-common: sepolicy: Address tethering_service denial",
-        "sdm660-common: Update blobs from jasmine V11.0.27.0.QDIMIXM",
-        "sdm660-common: Update blobs from jasmine V11.0.28.0.QDIMIXM"
+        "kernel: NekoKernel-Lite",
+        "sdm660-common: Switched to AIDL QTI powerhal",
+        "sdm660-common: Misc other changes and cleanups",
+        "sdm660-common: Build power stats and label it"
       ]
     }
   ]
