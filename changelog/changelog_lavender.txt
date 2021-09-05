@@ -1,0 +1,9 @@
+
+
+
+
+
+- kernel: NekoKernel-Lite
+- sdm660-common: Switched to AIDL QTI powerhal
+- sdm660-common: Misc other changes and cleanups
+- sdm660-common: Build power stats and label it
