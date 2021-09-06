@@ -1,25 +1,13 @@
 {
   "response": [
     {
-      "datetime": 202106301428,
-      "filename": "project-404-4.4-20210630-142812-RIPPA-violet.zip",
-      "id": "6e6802308c9ce2e04d40fc6cef85bb32",
-      "romtype": "RIPPA",
-      "size": 1432707072,
-      "url": "https://github.com/P404-Devices/device_xiaomi_violet/releases/download/v4.4/project-404-4.4-20210630-142812-RIPPA-violet.zip",
-      "version": "4.4",
-      "links": {
-        "xda": "",
-        "supportGroup": "https://telegram.me/project_404",
-        "deviceGroup": "https://t.me/Pr404Violet"
-      },
-      "changelog": [
-        "Updated to latest 404 source",
-        "Fixed Crashes on some apps",
-        "June '21 Security Patch merged",
-        "Upstreamed Kernel",
-        "More miscellaneous fixes and performance improvement"
-      ]
+      "datetime": 1630423859,
+      "filename": "project-404-4.5-20210906-160605-RIPPA-violet.zip",
+      "id": "e57b8b1ed26e7c31ec35f55466b9586b",
+      "romtype": "user",
+      "size": 1462508683,
+      "url": "https://builds.asspain.workers.dev/0:/project-404-4.5-20210906-160605-RIPPA-violet.zip",
+      "version": "11"
     }
   ]
 }
