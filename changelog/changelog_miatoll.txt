@@ -2,4 +2,9 @@
 
 
 
-- Nothing just add some features
+
+- Fixed Safetynet Issues 
+- Fixed Overheating while charging
+- Fixed Slow Charging Speeds
+- Switched to better implementation of power hal
+- Switched to OSS Audio hal
