@@ -1,22 +1,30 @@
 {
   "response": [
     {
-      "datetime": 202106211501,
-      "filename": "project-404-4.4-20210621-150140-RIPPA-platina.zip",
-      "id": "021f6691be8df475f21d517534452808",
-      "romtype": "user",
-      "size": 1275933962,
-      "url": "https://github.com/P404-Devices/android_device_xiaomi_platina/releases/download/v4.4/project-404-4.4-20210621-150140-RIPPA-platina.zip",
-      "version": "4.4",
+      "datetime": 1631265904,
+      "filename": "project-404-4.5-20210910-092508-RIPPA-platina.zip",
+      "id": "e9860712c788bddc560827351c37e725",
+      "romtype": "RIPPA",
+      "size": 1315403019,
+      "url": "https://github.com/P404-Devices/device_xiaomi_platina/releases/download/v4.5/project-404-4.5-20210910-092508-RIPPA-platina.zip",
+      "version": "4.5",
       "links": {
-        "xda": "",
+        "xda": "https://forum.xda-developers.com/t/rom-caf-11-0-project-404-for-mi-8-lite-official.4295605",
         "supportGroup": "https://telegram.me/project_404",
         "deviceGroup": "https://t.me/p404_platina"
       },
-      "changes": [
-        "Initial Official build",
-        "Include Gapps",
-        "Use Aurora kernel 4.4.273"
+      "changelog": [
+        "Address some sepolicy denials",
+        "Adjust TASchedtuneBoost for better power consumption",
+        "Disable EAS on early-init",
+        "Enable color mode in Setting/Display",
+        "Enable EAS after boot",
+        "Fix libperfmgr logspam",
+        "Set keyguard bottom margin",
+        "Switch build fp to Redfin RQ3A.210805.001.A1",
+        "Switch to stock schedtune boost values",
+        "Change kernel to platinum EAS 4.4.283",
+        "Kernel build with latest AOSP Clang"
       ]
     }
   ]
