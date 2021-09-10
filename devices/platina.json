@@ -1,10 +1,10 @@
 {
   "response": [
     {
-      "datetime": 1631265904,
+      "datetime": 202109100925,
       "filename": "project-404-4.5-20210910-092508-RIPPA-platina.zip",
       "id": "e9860712c788bddc560827351c37e725",
-      "romtype": "RIPPA",
+      "romtype": "user",
       "size": 1315403019,
       "url": "https://github.com/P404-Devices/device_xiaomi_platina/releases/download/v4.5/project-404-4.5-20210910-092508-RIPPA-platina.zip",
       "version": "4.5",
@@ -13,7 +13,7 @@
         "supportGroup": "https://telegram.me/project_404",
         "deviceGroup": "https://t.me/p404_platina"
       },
-      "changelog": [
+      "changes": [
         "Address some sepolicy denials",
         "Adjust TASchedtuneBoost for better power consumption",
         "Disable EAS on early-init",
