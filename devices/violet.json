@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1631114449,
-      "filename": "project-404-4.5-20210908-152051-RIPPA-violet.zip",
-      "id": "f511b1f3b547c3b34ad7cf5fb44fe5f7",
+      "datetime": 1631465661,
+      "filename": "project-404-4.5-20210912-165424-RIPPA-violet.zip",
+      "id": "1fcb4e50fb68a8ba1942261c29d9b2f2",
       "romtype": "user",
-      "size": 1462656716,
-      "url": "https://builds.asspain.workers.dev/0:/project-404-4.5-20210908-152051-RIPPA-violet.zip",
+      "size": 1462629065,
+      "url": "https://github.com/P404-Devices/device_xiaomi_violet/releases/download/v4.5/project-404-4.5-20210912-165424-RIPPA-violet.zip",
       "version": "11"
     }
   ]
