@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 202109062041,
-      "filename": "project-404-4.5-20210906-204107-RIPPA-beryllium.zip",
-      "id": "d780ddaba72ad8743f8485841576033d",
+      "datetime": 202110022234,
+      "filename": "project-404-4.5-20211002-223400-RIPPA-beryllium.zip",
+      "id": "ec6c447e01d221677812e437de63a680",
       "romtype": "user",
-      "size": 1431105342,
-      "url": "https://github.com/P404-Devices/device_xiaomi_beryllium/releases/download/v4.5/project-404-4.5-20210906-204107-RIPPA-beryllium.zip",
+      "size": 1431391938,
+      "url": "https://github.com/P404-Devices/device_xiaomi_beryllium/releases/download/v4.5/project-404-4.5-20211002-223400-RIPPA-beryllium.zip",
       "version": "4.5",
       "links": {
         "xda": "",
@@ -14,15 +14,12 @@
         "deviceGroup": "https://telegram.me/p404_beryllium"
       },
       "changes": [
-        "Nuke HDR configs since since they were causing discoloration in apps",
-        "Switch back to some stock perf configs",
-        "Build PowerStats HAL",
-        "Switch to custom vibrator hal",
-        "Cleanup some device side stuff",
-        "Boost GPU to max for expensive rendering events",
-        "Updated Stealth kernel (some features might be missing) & sync with Lineage device trees",
-        "Miscelleanous Improvements",
-        "NOTE: Clean flash recommended"
+        "Fixed manual network selection",
+        "Upstreamed Stealth Kernel to 4.9.284",
+        "Fixed random reboots",
+        "Added fast charge",
+        "Synced with latest P-404 source",
+        "Miscellaneous under the hood improvements"
       ]
     }
   ]
