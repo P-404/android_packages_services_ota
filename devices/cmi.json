@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 202109020640,
-      "filename": "project-404-4.5-20210902-064041-RIPPA-cmi.zip",
-      "id": "b45e861adf046ecfffb80b99dcb958d9",
+      "datetime": 202110041616,
+      "filename": "project-404-4.5-20211004-161654-RIPPA-cmi.zip",
+      "id": "0627ac8a97ee948f936f40d5a2ad321e",
       "romtype": "user",
-      "size": 1704957167,
-      "url": "https://github.com/P404-Devices/device_xiaomi_cmi/releases/download/v4.5/project-404-4.5-20210906-095559-RIPPA-cmi.zip",
+      "size": 1702525568,
+      "url": "https://github.com/P404-Devices/device_xiaomi_cmi/releases/download/v4.5/project-404-4.5-20211004-161654-RIPPA-cmi.zip",
       "version": "4.5",
       "links": {
         "xda": "",
@@ -15,16 +15,17 @@
       },
       "changes": [
         "Fixed all thermal issues",
+        "Upstreamed kernel to latest CAF tag",
         "Updated graphics-stack to LA.UM.9.12.r1-12000-SMxx50.0",
         "Updated perf-stack to LA.UM.9.12.r1-12000-SMxx50.0",
         "Updated display-stack to LA.UM.9.12.r1-12000-SMxx50.0",
         "Updated NFC-stack to LA.UM.9.12.r1-12000-SMxx50.0",
         "Fixed NFC crash for some people",
         "Switched to NQ NFC",
-        "Switched to OSS FOD implementation. Note: Screen flickers while unlocking for a split second. Will be fixed in upcoming releases (hopefully)!",
+        "Switched to OSS FOD implementation!",
         "Switch to OSS displaystack",
         "Built using latest Eva GCC",
-        "Updated blobs to 12.5.7",
+        "Updated blobs to 12.5.8",
         "Added dynamic thermal profile",
         "Switched to kernelside DT2W implementation",
         "Misc audio improvements",
