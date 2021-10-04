@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1630927288,
-      "filename": "project-404-4.5-20210906-112606-RIPPA-umi.zip",
-      "id": "24ce877dc05ae8260640106d2eaee3fd",
+      "datetime": 1633365909,
+      "filename": "project-404-4.5-20211004-164629-RIPPA-umi.zip",
+      "id": "450e9dd738640c21a1e6d24e999fac7e",
       "romtype": "user",
-      "size": 1717721634,
-      "url": "https://github.com/P404-Devices/device_xiaomi_umi/releases/download/v4.5/project-404-4.5-20210906-112606-RIPPA-umi.zip",
+      "size": 1715606527,
+      "url": "https://github.com/P404-Devices/device_xiaomi_umi/releases/download/v4.5/project-404-4.5-20211004-164629-RIPPA-umi.zip",
       "version": "11"
     }
   ]
