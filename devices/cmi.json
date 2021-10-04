@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1630922153,
-      "filename": "project-404-4.5-20210906-095559-RIPPA-cmi.zip",
-      "id": "91ce530a6a7f8f6b8a2b297b7d83b7e3",
+      "datetime": 1633277942,
+      "filename": "project-404-4.5-20211004-161654-RIPPA-cmi.zip",
+      "id": "0627ac8a97ee948f936f40d5a2ad321e",
       "romtype": "user",
-      "size": 1704117463,
-      "url": "https://github.com/P404-Devices/device_xiaomi_cmi/releases/download/v4.5/project-404-4.5-20210906-095559-RIPPA-cmi.zip",
+      "size": 1702525568,
+      "url": "https://github.com/P404-Devices/device_xiaomi_cmi/releases/download/v4.5/project-404-4.5-20211004-161654-RIPPA-cmi.zip",
       "version": "11"
     }
   ]

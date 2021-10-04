@@ -3,5 +3,8 @@
 
 
 
-- Updated kernel to .206
-- Fixed SafetyNet failing
+- Updated kernel to .207
+- Fixed FOD flashbang
+- Updated kernel to latest CAF tag
+- Fixed battery drain issue
+- Fixed device heating up fast
