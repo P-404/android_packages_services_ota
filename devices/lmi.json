@@ -1,0 +1,25 @@
+{
+    "response": [
+      {
+        "datetime": 202207060202,
+        "filename": "project-404-5.0-20220706-020216-SHINKA-lmi.zip",
+        "id": "8fdda721f6b9234b9ac446b47f95ac6dff1462ef5abff6df52f3d88c61145559",
+        "romtype": "user",
+        "size": 1426878889,
+        "url": "https://github.com/P404-Devices/device_xiaomi_lmi/releases/download/p404lmi-a/project-404-5.0-20220708-054316-SHINKA-lmi.zip",
+        "version": "5.0",
+        "links": {
+          "xda": "",
+          "supportGroup": "https://telegram.me/project_404",
+          "deviceGroup": "https://telegram.me/mackabuilds"
+        },
+        "changes": [
+          "Initial Official build of Android 12",
+          "User build",
+          "Selinux Enforced",
+          "All 404 Goodness included!"
+        ]
+      }
+    ]
+}
+  
