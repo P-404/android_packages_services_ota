@@ -1,25 +1,22 @@
 {
   "response": [
     {
-      "datetime": 202110022234,
-      "filename": "project-404-4.5-20211002-223400-RIPPA-beryllium.zip",
-      "id": "ec6c447e01d221677812e437de63a680",
+      "datetime": 1657603179,
+      "filename": "project-404-5.0-20220712-052201-SHINKA-beryllium.zip",
+      "id": "cc3573b04d40dbc401f84114acc73306650cb76ae2f20467e37e84764ecc6ad0",
       "romtype": "user",
-      "size": 1431391938,
-      "url": "https://github.com/P404-Devices/device_xiaomi_beryllium/releases/download/v4.5/project-404-4.5-20211002-223400-RIPPA-beryllium.zip",
-      "version": "4.5",
+      "size": 1617294212,
+      "url": "https://github.com/P404-Devices/device_xiaomi_beryllium/releases/download/v5.0/project-404-5.0-20220712-052201-SHINKA-beryllium.zip",
+      "version": "5.0",
       "links": {
         "xda": "",
         "supportGroup": "https://telegram.me/project_404",
-        "deviceGroup": "https://telegram.me/p404_beryllium"
+        "deviceGroup": "https://telegram.me/resist15_support"
       },
       "changes": [
-        "Fixed manual network selection",
-        "Upstreamed Stealth Kernel to 4.9.284",
-        "Fixed random reboots",
-        "Added fast charge",
-        "Synced with latest P-404 source",
-        "Miscellaneous under the hood improvements"
+        "Initial OFFICIAL Build",
+        "Gapps Included",
+        "Synced with latest P-404 source"
       ]
     }
   ]
