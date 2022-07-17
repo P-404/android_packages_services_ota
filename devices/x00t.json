@@ -1,0 +1,24 @@
+{
+    "response": [
+      {
+        "datetime": 202207161821,
+        "filename": "project-404-5.0-20220716-182133-SHINKA-X00T.zip",
+        "id": "ee9ef1d1e8048a937296708d0af6053f3d5354d20aeed7d80372c4a9db4afc3c",
+        "romtype": "user",
+        "size": 1429531637,
+        "url": "https://github.com/P404-Devices/device_asus_X00T/releases/download/Release/project-404-5.0-20220716-182133-SHINKA-X00T.zip",
+        "version": "5.0 (SHINKA)",
+        "links": {
+          "xda": "",
+          "supportGroup": "https://telegram.me/project_404",
+          "deviceGroup": "https://telegram.me/project_404"
+        },
+        "changes": [
+          "Initial Official build of Android 12",
+          "User build",
+          "Selinux Enforced",
+          "All 404 Goodness included!"
+        ]
+      }
+    ]
+}
