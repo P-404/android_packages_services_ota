@@ -1,12 +1,12 @@
 {
     "response": [
       {
-        "datetime": ,
-        "filename": "",
-        "id": "",
+        "datetime": 202207190833,
+        "filename": "project-404-5.0-20220719-083323-SHINKA-star.zip",
+        "id": "faa30b22eed9f2496e15be45b580bf3bb84296a6b7c3dea4bb1913bb5036355d",
         "romtype": "user",
-        "size": ,
-        "url": "",
+        "size": 1995536049,
+        "url": "https://github.com/P404-Devices/device_xiaomi_star/releases/download/v5.0/project-404-5.0-20220719-083323-SHINKA-star.zip",
         "version": "5.0",
         "links": {
           "xda": "",
@@ -17,13 +17,14 @@
           "Initial Official build of Android 12",
           "User build",
           "Selinux Enforced",
-          "Improvements to MIUI Cam",
-          "Added and enabled ozoaudio (feature from stock)",
+          "Huge improvements to MIUI Camera",
+          "Added and enabled ozoaudio (feature from stock used for audiozoom)",
           "Kernel upstreamed to .206",
           "LA.UM.9.14.1.r1-06700-QCM6490.QSSI12.0 merged in kernel",
           "Fixed crashing of some networking apps",
           "Lots of performance improvements",
           "Some battery improvements",
+          "Misc other improvements",
           "All 404 Goodness included!"
         ]
       }
