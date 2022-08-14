@@ -1,35 +1,23 @@
 {
   "response": [
     {
-      "datetime": 202110041646,
-      "filename": "project-404-4.5-20211004-164629-RIPPA-umi.zip",
-      "id": "450e9dd738640c21a1e6d24e999fac7e",
+      "datetime": 202208141032,
+      "filename": "project-404-5.0-20220814-103223-SHINKA-umi.zip",
+      "id": "fce38cc036b5bc4d9942138b0c5fc153a2926f7cc5084a3ae40cbc931a9b81f4",
       "romtype": "user",
-      "size": 1715606527,
-      "url": "https://github.com/P404-Devices/device_xiaomi_umi/releases/download/v4.5/project-404-4.5-20211004-164629-RIPPA-umi.zip",
-      "version": "4.5",
+      "size": 1881397744,
+      "url": "https://github.com/P404-Devices/device_xiaomi_umi/releases/download/v5.0/project-404-5.0-20220814-103223-SHINKA-umi.zip",
+      "version": "5.0 (Shinka)",
       "links": {
         "xda": "",
         "supportGroup": "https://telegram.me/project_404",
         "deviceGroup": "https://telegram.me/mi10aosp"
       },
       "changes": [
-        "Fixed all thermal issues",
-        "Upstreamed kernel to latest CAF tag",
-        "Updated graphics-stack to LA.UM.9.12.r1-12000-SMxx50.0",
-        "Updated perf-stack to LA.UM.9.12.r1-12000-SMxx50.0",
-        "Updated display-stack to LA.UM.9.12.r1-12000-SMxx50.0",
-        "Updated NFC-stack to LA.UM.9.12.r1-12000-SMxx50.0",
-        "Fixed NFC crash for some people",
-        "Switched to NQ NFC",
-        "Switched to OSS FOD implementation!",
-        "Switch to OSS displaystack",
-        "Built using latest Eva GCC",
-        "Updated blobs to 12.5.8",
-        "Added dynamic thermal profile",
-        "Switched to kernelside DT2W implementation",
-        "Misc audio improvements",
-        "General ROM side performance and memory improvements"
+          "Initial Official build of Android 12",
+          "User build",
+          "Selinux Enforced",
+          "All 404 Goodness included!"
       ]
     }
   ]
