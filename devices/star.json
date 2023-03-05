@@ -1,29 +1,28 @@
 {
     "response": [
       {
-        "datetime": 202207190833,
-        "filename": "project-404-5.0-20220719-083323-SHINKA-star.zip",
-        "id": "faa30b22eed9f2496e15be45b580bf3bb84296a6b7c3dea4bb1913bb5036355d",
+        "datetime": 202303051739,
+        "filename": "project-404-6.1-20230305-173908-Tokui-star.zip",
+        "id": "0b1dfdfca4422b7f88cfb63aa948a32c1af19f391167bb9c86b20d5e677da65d",
         "romtype": "user",
-        "size": 1995536049,
-        "url": "https://github.com/P404-Devices/device_xiaomi_star/releases/download/v5.0/project-404-5.0-20220719-083323-SHINKA-star.zip",
-        "version": "5.0",
+        "size": 2135036217,
+        "url": "https://github.com/P404-Devices/device_xiaomi_star/releases/download/v6.1/project-404-6.1-20230305-173908-Tokui-star.zip",
+        "version": "6.1",
         "links": {
           "xda": "",
           "supportGroup": "https://telegram.me/project_404",
           "deviceGroup": "https://telegram.me/mi11ultraaosp"
         },
         "changes": [
-          "Initial Official build of Android 12",
+          "Initial Official build of Android 13",
           "User build",
           "Selinux Enforced",
-          "Huge improvements to MIUI Camera",
-          "Added and enabled ozoaudio (feature from stock used for audiozoom)",
-          "Kernel upstreamed to .206",
-          "LA.UM.9.14.1.r1-06700-QCM6490.QSSI12.0 merged in kernel",
-          "Fixed crashing of some networking apps",
+          "Improvements to MIUI Camera (Uses latest Leica mod!)",
+          "Updated blobs to MIUI V14.0.23.2.21.DEV",
+          "Kernel upstreamed to .234",
+          "LA.UM.9.14.1.c25-02200-QCM6490.0 merged in kernel",
           "Lots of performance improvements",
-          "Some battery improvements",
+          "Huge battery improvements",
           "Misc other improvements",
           "All 404 Goodness included!"
         ]
