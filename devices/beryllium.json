@@ -1,22 +1,28 @@
 {
   "response": [
     {
-      "datetime": 202207120522,
-      "filename": "project-404-5.0-20220712-052201-SHINKA-beryllium.zip",
-      "id": "cc3573b04d40dbc401f84114acc73306650cb76ae2f20467e37e84764ecc6ad0",
+      "datetime": 202303060526,
+      "filename": "project-404-6.1-20230306-052659-TOKUI-beryllium.zip",
+      "id": "8b4bfc0422b339668c073c2782eeb47b27359d6568bc42db5b756905fc5df212",
       "romtype": "user",
-      "size": 1617294212,
-      "url": "https://github.com/P404-Devices/device_xiaomi_beryllium/releases/download/v5.0/project-404-5.0-20220712-052201-SHINKA-beryllium.zip",
-      "version": "5.0 (SHINKA)",
+      "size": 1744123052,
+      "url": "https://github.com/P404-Devices/device_xiaomi_beryllium/releases/download/v6.1/project-404-6.1-20230306-052659-TOKUI-beryllium.zip",
+      "version": "6.1 (TOKUI)",
       "links": {
-        "xda": "",
+        "xda": "https://forum.xda-developers.com/t/rom-13-beryllium-project-404-clo-2023-02-27.4476985/#post-87247641",
         "supportGroup": "https://telegram.me/project_404",
         "deviceGroup": "https://telegram.me/resist15_support"
       },
       "changes": [
-        "Initial OFFICIAL Build",
-        "Gapps Included",
-        "Synced with latest P-404 source"
+          "Initial Official build of Android 13",
+          "User build",
+          "Selinux Enforced",
+          "Uses Dynamic Partitioning System",
+          "Kernel upstreamed to EOL Tag .337",
+          "Lots of performance improvements",
+          "Huge battery improvements",
+          "Misc other improvements",
+          "All 404 Goodness included!"
       ]
     }
   ]
