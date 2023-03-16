@@ -1,12 +1,12 @@
 {
     "response": [
       {
-        "datetime": 202303051739,
-        "filename": "project-404-6.1-20230305-173908-Tokui-star.zip",
-        "id": "0b1dfdfca4422b7f88cfb63aa948a32c1af19f391167bb9c86b20d5e677da65d",
+        "datetime": 202303160822,
+        "filename": "project-404-6.1-20230316-082221-Tokui-star.zip",
+        "id": "81ac5a278a1d1ef38a9db82cf5502052534f7838067e41d756ec8bfead73aee8",
         "romtype": "user",
-        "size": 2135036217,
-        "url": "https://github.com/P404-Devices/device_xiaomi_star/releases/download/v6.1/project-404-6.1-20230305-173908-Tokui-star.zip",
+        "size": 2149350944,
+        "url": "https://devuploads.com/5r7evaf528iw",
         "version": "6.1",
         "links": {
           "xda": "",
@@ -14,17 +14,11 @@
           "deviceGroup": "https://telegram.me/mi11ultraaosp"
         },
         "changes": [
-          "Initial Official build of Android 13",
-          "User build",
-          "Selinux Enforced",
-          "Improvements to MIUI Camera (Uses latest Leica mod!)",
-          "Updated blobs to MIUI V14.0.23.2.21.DEV",
-          "Kernel upstreamed to .234",
-          "LA.UM.9.14.1.c25-02200-QCM6490.0 merged in kernel",
-          "Lots of performance improvements",
-          "Huge battery improvements",
-          "Misc other improvements",
-          "All 404 Goodness included!"
+          "Fixed Whatsapp audio issue",
+          "Switched to new zlib-ng. This improves compression and decompression performance for many use cases",
+          "Fixed touch issue in 404 recovery",
+          "Hopefully fixed TWRP touch issue too",
+          "Misc other improvements"
         ]
       }
     ]
