@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 202303060526,
-      "filename": "project-404-6.1-20230306-052659-TOKUI-beryllium.zip",
-      "id": "8b4bfc0422b339668c073c2782eeb47b27359d6568bc42db5b756905fc5df212",
+      "datetime": 202304010914,
+      "filename": "project-404-6.1-20230330-071716-TOKUI-beryllium.zip",
+      "id": "f09a64057c4666529fc57ed531ce3b1ccd70bb93a46a804aa53cdde7ed237d81",
       "romtype": "user",
-      "size": 1744123052,
-      "url": "https://github.com/P404-Devices/device_xiaomi_beryllium/releases/download/v6.1/project-404-6.1-20230306-052659-TOKUI-beryllium.zip",
+      "size": 1757668613,
+      "url": "https://github.com/P404-Devices/device_xiaomi_beryllium/releases/download/v6.1.1/project-404-6.1-20230330-071716-TOKUI-beryllium.zip",
       "version": "6.1 (TOKUI)",
       "links": {
         "xda": "https://forum.xda-developers.com/t/rom-13-beryllium-project-404-clo-2023-02-27.4476985/#post-87247641",
@@ -14,13 +14,7 @@
         "deviceGroup": "https://telegram.me/resist15_support"
       },
       "changes": [
-          "Initial Official build of Android 13",
-          "User build",
-          "Selinux Enforced",
-          "Uses Dynamic Partitioning System",
-          "Kernel upstreamed to EOL Tag .337",
-          "Lots of performance improvements",
-          "Huge battery improvements",
+          "Fixed Minor Issues From Previous Update",
           "Misc other improvements",
           "All 404 Goodness included!"
       ]
