@@ -1,29 +1,23 @@
 {
   "response": [
     {
-      "datetime": 202106210918,
-      "filename": "project-404-4.4-20210621-205741-RIPPA-ginkgo.zip",
-      "id": "30dc28a508dca2313ea04e42c9151ae0",
+      "datetime": 202304091021,
+      "filename": "project-404-6.1-20230408-212905-Tokui-ginkgo.zip",
+      "id": "c50a787f64bc4771f55d8f0c1502259cf02616055dc396b04cf5e0775653e8bb",
       "romtype": "user",
-      "size": 1366489014,
-      "url": "https://github.com/P404-Devices/device_xiaomi_ginkgo/releases/download/v4.4/project-404-4.4-20210621-205741-RIPPA-ginkgo.zip",
-      "version": "4.4",
+      "size": 1299492,
+      "url": "https://github.com/P404-Devices/device_xiaomi_ginkgo/releases/download/v6.1/project-404-6.1-20230408-212905-Tokui-ginkgo.zip",
+      "version": "6.1",
       "links": {
-        "xda": "https://forum.xda-developers.com/t/rom-caf-11-0-project-404-for-redmi-note-8-8t-official-unified.4247157/",
+        "xda": "https://forum.xda-developers.com/t/rom-caf-13-0-project-404-for-redmi-note-8-8t-official-unified.4247157/",
         "supportGroup": "https://telegram.me/project_404",
         "deviceGroup": "https://t.me/project_404"
       },
       "changes": [
-        "Updated stock blobs from MIUI 21.6.7",
-        "Updated some blobs to LA.UM.9.11.r1-03200-NICOBAR.0",
-        "Switch to LA.QSSI.11.0.r1-09900-qssi.0 QTI component for adreno,display,perf,wfd,av,telephony,bt",
-        "Improved 5ghz wifi",
-        "Set voice call volume steps to 7",
-        "Increase media volume steps to 25",
-        "Fix kcal toogle after first boo",
-        "Enable adaptive sleep",
-        "Configure SQLite to operate in MEMORY mode",
-        "Misc optimizations and fixes"
+        "Resolved issue with Bluetooth audio",
+        "Fixes crashes & delay with wide angle camera opening",
+        "Switched to minimal gapps build",
+        "Performance improvement"
       ]
     }
   ]
