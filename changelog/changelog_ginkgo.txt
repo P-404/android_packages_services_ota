@@ -3,5 +3,7 @@
 
 
 
-- Nothing just add some features
-- Bring Back Old QS
+- Resolved issue with bluetooth audio
+- Fixes crashes & delay with wide angle camera
+- Switched to minimal gapps build
+- Performace improvement

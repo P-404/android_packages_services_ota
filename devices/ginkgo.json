@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1629266627,
-      "filename": "project-404-4.4-20210818-060426-RIPPA-ginkgo.zip",
-      "id": "c62f756f7a030f5cfd87832f767ac2fc",
+      "datetime": 1680989343,
+      "filename": "project-404-6.1-20230408-212905-Tokui-ginkgo.zip",
+      "id": "c50a787f64bc4771f55d8f0c1502259cf02616055dc396b04cf5e0775653e8bb",
       "romtype": "user",
-      "size": 884488649,
-      "url": "https://transfer.sh/get/1vb29zX/project-404-4.4-20210818-060426-RIPPA-ginkgo.zip",
-      "version": "11"
+      "size": 1299492,
+      "url": "https://github.com/P404-Devices/device_xiaomi_ginkgo/releases/download/v6.1/project-404-6.1-20230408-212905-Tokui-ginkgo.zip",
+      "version": "13"
     }
   ]
 }
